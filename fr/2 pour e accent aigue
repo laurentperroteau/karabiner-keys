@@ -1,0 +1,16 @@
+{
+    "description": "2 pour e accent aigue",
+    "manipulators": [
+        {
+            "from": { "key_code": "2" },
+            "to": [
+                {
+                    "key_code": "e",
+                    "modifiers": ["option"]
+                },
+                { "key_code": "e" }
+            ],
+            "type": "basic"
+        }
+    ]
+}
