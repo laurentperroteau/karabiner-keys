@@ -1,0 +1,15 @@
+{
+    "description": "9 pour c cedille",
+    "manipulators": [
+        {
+            "from": { "key_code": "9" },
+            "to": [
+                {
+                    "key_code": "c",
+                    "modifiers": ["option"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
