@@ -1,0 +1,16 @@
+{
+    "description": "0 pour a accent grave",
+    "manipulators": [
+        {
+            "from": { "key_code": "0" },
+            "to": [
+                {
+                    "key_code": "grave_accent_and_tilde",
+                    "modifiers": ["option"]
+                },
+                { "key_code": "a" }
+            ],
+            "type": "basic"
+        }
+    ]
+}
